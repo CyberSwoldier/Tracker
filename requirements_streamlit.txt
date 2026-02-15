@@ -1,8 +1,0 @@
-streamlit
-plotly
-pandas
-requests
-feedparser
-beautifulsoup4
-python-dateutil
-lxml
